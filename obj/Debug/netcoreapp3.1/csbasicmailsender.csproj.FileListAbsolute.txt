@@ -1,0 +1,11 @@
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.exe
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.deps.json
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.runtimeconfig.json
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.runtimeconfig.dev.json
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.dll
+C:\users\sevket\desktop\csbasicmailsender\bin\Debug\netcoreapp3.1\csbasicmailsender.pdb
+C:\users\sevket\desktop\csbasicmailsender\obj\Debug\netcoreapp3.1\csbasicmailsender.csprojAssemblyReference.cache
+C:\users\sevket\desktop\csbasicmailsender\obj\Debug\netcoreapp3.1\csbasicmailsender.AssemblyInfoInputs.cache
+C:\users\sevket\desktop\csbasicmailsender\obj\Debug\netcoreapp3.1\csbasicmailsender.AssemblyInfo.cs
+C:\users\sevket\desktop\csbasicmailsender\obj\Debug\netcoreapp3.1\csbasicmailsender.dll
+C:\users\sevket\desktop\csbasicmailsender\obj\Debug\netcoreapp3.1\csbasicmailsender.pdb
