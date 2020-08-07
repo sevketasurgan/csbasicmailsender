@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Mail;
 
 namespace csbasicmailsender
 {
